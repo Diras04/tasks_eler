@@ -139,7 +139,7 @@ public class Main {
         System.out.println(rez);
     }
 
-    // Функція перевірки на простоту
+    // Функція перевірки на простоту***
     public static boolean isPrime(int num) {
         if (num < 2) return false;
         if (num % 2 == 0 && num != 2) return false;
